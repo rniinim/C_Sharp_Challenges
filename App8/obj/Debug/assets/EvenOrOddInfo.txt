@@ -1,0 +1,7 @@
+﻿Make program that:
+1. Asks number
+2. Prints whether number is even or odd
+
+Example input: 7
+
+Example output: Number 7 is odd

@@ -1,0 +1,6 @@
+C:\Users\Rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+C:\Users\Rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe
+C:\Users\Rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.pdb
+C:\Users\Rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\SuperSeponSuunnistusSimulaattori.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+C:\Users\Rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb

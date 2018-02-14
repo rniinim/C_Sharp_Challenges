@@ -1,0 +1,17 @@
+﻿/* This is solution for Temperature converter fromn Celsius to Fahrenheit */
+double value = 0;
+double result = 0;
+bool dNumber = false;
+
+while (!dNumber)
+{
+    Console.Write("Give Celsius degrees (e.g 20.8): ");
+    dNumber = double.TryParse(Console.ReadLine(), out value);
+}
+
+result = value * 9 / 5 + 32;
+Console.WriteLine("{0} Celsius degrees is {1} in Fahrenheit", value, result);
+			
+/* Remember that this is only one way to do this challenge ! */
+
+

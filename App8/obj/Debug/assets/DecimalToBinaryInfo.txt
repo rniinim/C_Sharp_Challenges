@@ -1,0 +1,8 @@
+﻿Make program that:
+1. Takes decimal number
+2. Converts that number to binary
+3. Prints binary number
+
+Example input: 17
+
+Example output: 10001

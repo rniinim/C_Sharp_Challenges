@@ -1,0 +1,8 @@
+﻿Make program that:
+1. Takes amount of years
+2. Converts it to seconds
+3. Prints seconds
+
+Example input: 5
+
+Example output: 5 years is ~15778800 seconds

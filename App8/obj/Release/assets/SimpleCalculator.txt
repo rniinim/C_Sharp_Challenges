@@ -1,0 +1,34 @@
+﻿/* This is solution for Simple calculator */
+
+Console.WriteLine("What do you want to do? (+, -, * or /)");
+string cal = Console.ReadLine();
+
+Console.Write("Input 1st term: ");
+double term1 = double.Parse(Console.ReadLine());
+Console.Write("Input 2nd term: ");
+double term2 = double.Parse(Console.ReadLine());
+
+if (cal == "+")
+{
+    Console.WriteLine("{0} + {1} = {2}", term1, term2, (term1 + term2));
+}
+else if (cal == "-")
+{
+    Console.WriteLine("{0} - {1} = {2}", term1, term2, (term1 - term2));
+}
+else if (cal == "*")
+{
+    Console.WriteLine("{0} * {1} = {2}", term1, term2, (term1 * term2));
+}
+else if (cal == "/")
+{
+    Console.WriteLine("{0} / {1} = {2}", term1, term2, (term1 / term2));
+}
+else
+{
+    Console.WriteLine("You have to write +, -, * or / !");
+}
+			
+/* Remember that this is only one way to do this challenge ! */
+
+

@@ -1,0 +1,6 @@
+c:\users\rasmus\documents\visual studio 2015\Projects\Temperature converter\Temperature converter\bin\Debug\Temperature converter.exe.config
+c:\users\rasmus\documents\visual studio 2015\Projects\Temperature converter\Temperature converter\bin\Debug\Temperature converter.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\Temperature converter\Temperature converter\bin\Debug\Temperature converter.pdb
+c:\users\rasmus\documents\visual studio 2015\Projects\Temperature converter\Temperature converter\obj\Debug\Temperature converter.csprojResolveAssemblyReference.cache
+c:\users\rasmus\documents\visual studio 2015\Projects\Temperature converter\Temperature converter\obj\Debug\Temperature converter.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\Temperature converter\Temperature converter\obj\Debug\Temperature converter.pdb

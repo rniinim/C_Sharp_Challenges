@@ -1,0 +1,22 @@
+﻿
+Need help installing Visual Studio?
+https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio
+https://www.youtube.com/watch?v=IwxkVL5DGg8
+
+Need help learnin c#?
+https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+http://www.learncs.org/
+https://www.microsoft.com/net/tutorials/csharp/getting-started
+
+Useful Youtube playlists:
+
+How to program in C# - Beginner Course // Brackeys 
+https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51
+
+C# Beginners Tutorials Playlist // thenewboston
+https://www.youtube.com/watch?v=x_9lfHjYtVg&list=PL0EE421AE8BCEBA4A
+
+C# Beginners Tutorials Playlist // Collin Blake
+https://www.youtube.com/watch?v=Grss9Zqxdng&list=PLi2hbezQRVS2ZCv2kVjtQ7jWQIt4Pzjuc
+
+Contact C# Challenges For Beginners: rssetech@gmail.com 

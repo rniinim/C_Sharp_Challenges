@@ -1,0 +1,7 @@
+﻿Make program that:
+1. Asks name
+2. Greets name
+
+Example input: Joe
+
+Example output: Hello Joe

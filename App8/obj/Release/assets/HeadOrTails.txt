@@ -1,0 +1,23 @@
+﻿/* This is solution for Heads/tails challenge */
+
+int throws,coin;
+Console.Write("How many times do you want to flip a coin? ");
+throws = int.Parse(Console.ReadLine());
+
+Random rng = new Random();
+for (int i = 0; i < throws; i++)
+{
+    coin = rng.Next(0, 2);
+    if (coin == 0)
+    {
+        Console.WriteLine("Heads");
+    }
+    else
+    {
+        Console.WriteLine("Tails");
+    }
+}
+
+/* Remember that this is only one way to do this challenge ! */
+
+

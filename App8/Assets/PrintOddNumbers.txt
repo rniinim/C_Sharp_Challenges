@@ -1,0 +1,13 @@
+﻿/* This is solution for Print odd numbers */
+
+for (int i = 1; i < 100; i++)
+{
+    if (i % 2 != 0)
+    {
+        Console.WriteLine(i.ToString());
+    }
+}
+
+/* Remember that this is only one way to do this challenge ! */
+
+

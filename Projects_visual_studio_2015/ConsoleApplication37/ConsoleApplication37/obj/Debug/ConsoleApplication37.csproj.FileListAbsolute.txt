@@ -1,0 +1,13 @@
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csproj.CoreCompileInputs.cache

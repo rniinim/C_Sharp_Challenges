@@ -1,0 +1,6 @@
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.pdb
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.csprojResolveAssemblyReference.cache
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb

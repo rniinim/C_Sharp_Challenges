@@ -1,0 +1,9 @@
+﻿Make program that:
+1. Asks "Rock, Paper or Scissors"
+2. Draws random option for computer
+3. Test which wins and print results
+
+Example input: rock
+
+Example output: Computer selected paper
+				Computer won.

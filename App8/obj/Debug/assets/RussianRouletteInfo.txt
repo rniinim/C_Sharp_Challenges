@@ -1,0 +1,7 @@
+﻿Make program that:
+1. Loops until gun is triggered
+2. User has to press key to 'shoot'
+3. Gun has 1/6 change to trigger
+4. After gun triggers program ends
+
+Example output: Click! Click! Click! Boom! Game Over

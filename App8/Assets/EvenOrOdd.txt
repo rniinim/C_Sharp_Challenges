@@ -1,0 +1,18 @@
+﻿/* This is solution for Check if number is even or odd */
+
+Console.WriteLine("Give nubmer: ");
+int number = int.Parse(Console.ReadLine());
+
+if (number % 2 == 0)
+{
+    Console.WriteLine("{0} is even number.", number);
+}
+
+else
+{
+    Console.WriteLine("{0} is odd number.", number);
+}
+
+/* Remember that this is only one way to do this challenge ! */
+
+

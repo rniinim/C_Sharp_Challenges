@@ -1,0 +1,83 @@
+﻿/* This is solution for Rock - Paper - Scissors */
+
+string playerChoise;
+int computerChoise;
+Random rng = new Random();
+
+
+Console.Write("Write rock , paper or scissors : ");
+playerChoise = Console.ReadLine();
+computerChoise = rng.Next(0, 3);
+playerChoise = playerChoise.ToLower();
+
+if (playerChoise == "rock")
+{
+    if (computerChoise == 0)
+    {
+        Console.WriteLine("Computer selected rock");
+        Console.WriteLine("Tie!");
+    }
+
+    else if (computerChoise == 1)
+    {
+        Console.WriteLine("Computer selected paper");
+        Console.WriteLine("Computer won.");
+    }
+
+    else if (computerChoise == 2)
+    {
+        Console.WriteLine("Computer selected scissors");
+        Console.WriteLine("You won!");
+    }
+}
+
+else if (playerChoise == "paper")
+{
+    if (computerChoise == 0)
+    {
+        Console.WriteLine("Computer selected rock");
+        Console.WriteLine("You won!");
+    }
+
+    else if (computerChoise == 1)
+    {
+        Console.WriteLine("Computer selected paper");
+        Console.WriteLine("Tie!");
+    }
+
+    else if (computerChoise == 2)
+    {
+        Console.WriteLine("Computer selected scissors");
+        Console.WriteLine("You lost.");
+    }
+}
+
+else if (playerChoise == "scissors")
+{
+    if (computerChoise == 0)
+    {
+        Console.WriteLine("Computer selected rock");
+        Console.WriteLine("You lost.");
+    }
+
+    else if (computerChoise == 1)
+    {
+        Console.WriteLine("Computer selected paper");
+        Console.WriteLine("You won!");
+    }
+
+    else if (computerChoise == 2)
+    {
+        Console.WriteLine("Computer selected scissors");
+        Console.WriteLine("Tie!");
+    }
+}
+
+else
+{
+    Console.WriteLine("You have to choose rock, paper or scissors !");
+}
+			
+/* Remember that this is only one way to do this challenge ! */
+
+
