@@ -1,9 +1,0 @@
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\bin\Debug\UITest1.dll
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\bin\Debug\UITest1.pdb
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\bin\Debug\nunit.framework.dll
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\bin\Debug\Xamarin.UITest.dll
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\bin\Debug\nunit.framework.xml
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\bin\Debug\Xamarin.UITest.xml
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\obj\Debug\UITest1.csprojResolveAssemblyReference.cache
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\obj\Debug\UITest1.dll
-c:\users\rasmus\documents\visual studio 2015\Projects\UITest1\UITest1\obj\Debug\UITest1.pdb

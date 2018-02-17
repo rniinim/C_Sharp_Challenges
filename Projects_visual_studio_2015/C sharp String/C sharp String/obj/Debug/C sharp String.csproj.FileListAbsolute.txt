@@ -1,6 +1,0 @@
-c:\users\rasmus\documents\visual studio 2015\Projects\C sharp String\C sharp String\bin\Debug\C sharp String.exe.config
-c:\users\rasmus\documents\visual studio 2015\Projects\C sharp String\C sharp String\bin\Debug\C sharp String.exe
-c:\users\rasmus\documents\visual studio 2015\Projects\C sharp String\C sharp String\bin\Debug\C sharp String.pdb
-c:\users\rasmus\documents\visual studio 2015\Projects\C sharp String\C sharp String\obj\Debug\C sharp String.csprojResolveAssemblyReference.cache
-c:\users\rasmus\documents\visual studio 2015\Projects\C sharp String\C sharp String\obj\Debug\C sharp String.exe
-c:\users\rasmus\documents\visual studio 2015\Projects\C sharp String\C sharp String\obj\Debug\C sharp String.pdb

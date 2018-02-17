@@ -1,6 +1,0 @@
-c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe.config
-c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.exe
-c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication30\ConsoleApplication30\bin\Debug\ConsoleApplication30.pdb
-c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.csprojResolveAssemblyReference.cache
-c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.exe
-c:\users\rasmus\documents\visual studio 2015\Projects\ConsoleApplication30\ConsoleApplication30\obj\Debug\ConsoleApplication30.pdb

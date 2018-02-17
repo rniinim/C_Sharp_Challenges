@@ -1,2 +1,0 @@
-c:\users\rasmus\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
-C:\Users\Rasmus\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
