@@ -1,9 +1,0 @@
-﻿/* This is solution for Ask name - greet name */
-
-Console.WriteLine("What is your name?");
-string name = Console.ReadLine();
-Console.WriteLine("Hey {0}!", name);
-			
-/* Remember that this is only one way to do this challenge ! */
-
-

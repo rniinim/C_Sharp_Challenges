@@ -1,7 +1,0 @@
-﻿Make program that:
-1. Asks how many times user wants to throw
-2. Prints results
-
-Example input: 4
-
-Example output: Heads Heads Tails Heads

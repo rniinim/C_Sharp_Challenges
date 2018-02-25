@@ -1,5 +1,0 @@
-﻿C# Challenges For Beginners
-
-Developed by RSSE Tech
-
-CHANGELOG

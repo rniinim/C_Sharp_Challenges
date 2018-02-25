@@ -1,7 +1,0 @@
-﻿Make program that:
-1. Asks 2 integers
-2. Prints integers and sum of those numbers
-
-Example input: 3 16
-
-Example output: 3 + 16 = 19

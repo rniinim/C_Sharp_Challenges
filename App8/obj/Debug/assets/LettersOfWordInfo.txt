@@ -1,7 +1,0 @@
-﻿Make program that:
-1. Asks word
-2. Prints letters of word starting from first letter
-
-Example input: Program
-
-Example output: P Pr Pro Prog Progr Progra Program

@@ -1,7 +1,0 @@
-﻿Make program that:
-1. Asks word to be reversed
-2. Reverses word and prints it
-
-Example input: Program
-
-Example output: margorP

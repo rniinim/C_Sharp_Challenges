@@ -1,8 +1,0 @@
-﻿Make program that:
-1. Takes temperature value and make sure that it is suitable number
-2. Converts temperature from celsius to fahrenheit
-3. Prints both temperatures
-
-Example input: 30
-
-Example output: 30 Celsius degrees is 86 in Farenheit

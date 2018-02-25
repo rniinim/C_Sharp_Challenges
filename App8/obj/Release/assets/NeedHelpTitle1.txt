@@ -1,2 +1,0 @@
-﻿
-Need help installing Visual Studio?

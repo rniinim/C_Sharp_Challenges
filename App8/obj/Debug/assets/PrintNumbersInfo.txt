@@ -1,4 +1,0 @@
-﻿Make program that:
-1. Prints numbers from 1 to 100
-
-Example output: 1 2 3 ..... 97 99 100
